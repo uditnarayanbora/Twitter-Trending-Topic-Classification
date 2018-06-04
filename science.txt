@@ -1,0 +1,1208 @@
+Aberration
+Absolute
+Absorptive Power
+Acceleration
+Accelerator
+Accelerometer
+Accessory
+Accommodation
+Action
+Adhesion
+Adiabatic
+Advantage
+Aerial
+Aeroplane
+Aileron
+Air Brake
+Air Pump
+Alternating Current
+Alternation
+Alternator
+Altimeter
+Amplifier
+Amplitude
+Analogy
+Analysis (Of Light)
+Angle of Contact
+Angle of Deviation
+Angle of Emergence
+Angle of Incidence
+Angle of Projection
+Angle of Reflection
+Angular Moment
+Angular Velocity
+Anode
+Anticlockwise
+Apparatus
+Apparent
+Apparent Expansion
+Arrestment
+Astigmatism
+Astronomical
+Astronomy
+Atmosphere
+Atom
+Atomic Number
+Automatic
+Auxiliary
+Axis of Mirror
+Balance Wheel
+Balancing Point
+Bar Magnet
+Barograph
+Baroscope
+Baroscopic
+Base
+Battery
+Beaker
+Beam of Balance
+Beam of Light
+Beats
+Bell Jar
+Belt (For Driving)
+Biconvex Lens
+Binding Energy
+Biding Screw
+Bioscope
+Black Body
+Block (Pulling)
+Bob
+Boiler
+Boiling Point
+Brake
+Brush
+Bulb
+Buoy
+Buoyancy
+Calibration
+Calliper
+Cam
+Capacitance
+Capillarity
+Carrier Waves
+Cathode
+Centre of Buoyancy
+Centre of Curvature
+Centre of Gravity
+Centre of Oscillation
+Centre of Pressure
+Centre of Suspension
+Centrifugal
+Centripetal
+Chromatic Aberration
+Chromo Sphere
+Chronometer
+Circulation
+Clamp
+Clip
+Clockwise
+Code
+Coefficient
+Cohesion
+Collination
+Collinator
+Collision
+Colour Blindness
+Commutator
+Compass
+Compass Needle
+Compass Points
+Compensated
+Components (Of Forces)
+Composition of Forces
+Compressibility
+Computer
+Concave
+Concave Lens
+Concave Mirror
+Concavo-Convex Lens
+Concurrent
+Condenser
+Conductance
+Conduction
+Conductor
+Conjugated Foci
+Connection in Parallel
+Constant
+Continuous Current
+Convection
+Convergent (Pencil)
+Convex Lens
+Convex Mirror
+Core
+Counter Clockwise
+Couple
+Couple Forces
+Coupling
+Crank
+Crests and Troughs
+Critical Angle
+Cross Section
+Cross Wire
+Cubical Expansion
+Declination
+Definition
+Deflection
+Demagnetization
+Density
+Depolarisation
+Depolariser
+Depression
+Detector
+Developer
+Deviation
+Dew-point
+Diagram
+Diaphragm
+Diatomic scale
+Dielectric
+Diffraction
+Direct current
+Directive property
+Disc
+Discord
+Displacement
+Divergent
+Divisibility
+Down stroke
+Ductility
+Ebullition
+Einstein
+Chemistry
+Albert
+Eccentric
+Efficiency
+Effort
+Elastic Fatigue
+Elasticity
+Electric Circuit
+Electric Charge
+Electric Current
+Electric Discharge
+Electric Field
+Electric Induction
+Electric Resistance
+Electric Shock
+Electrification
+Electrode
+Electro Motive Force
+Electrolysis
+Electrolyte
+Electron
+Electronics
+Electroplating
+Electroscope
+Elevator
+Elongation
+Emergent Ray
+Energy
+Equilibrant
+Equilibrium
+Exhaustion
+Expansion
+Eye Lens
+Eye Piece
+Fathometer
+Fatigue
+Film
+Fixed Point
+Fixing
+Flask
+Flexibility
+Flotation
+Flow
+Fluid
+Focal Length
+Focus
+Fog
+Force Pump
+Formula
+Freezing Mixture
+Freezing Point
+Frequency
+Friction
+Frictional Resistance
+Frost
+Fulcrum
+Fundamental
+Fuse
+Gaseous State
+Gauge
+Generator
+Graduation
+Grating
+Gravitation
+Gravity
+Grid
+Ground Glass
+Hail
+Hardness
+Harmony
+Heating effect
+Hinge
+Horse power
+Humidity
+Hydraulic brake
+Hydraulic press
+Hydro meter
+Hygrometer
+Hygrometric state
+Ignition
+Illuminative Power
+Impact
+Impulse
+Incandescence
+Incident Ray
+Inclination
+Inclined Plane
+Incompressibility
+Indestructibility
+Index
+Indigo
+Indivisibility
+Induced Magnetization
+Induction
+Induction Coil
+Inertia
+Inference
+Inflator
+Insulation
+Intensity
+Interaction
+Interference
+nterval
+Inverse Proportion
+Inverse Square Law
+Invisible Rays
+Ion
+Ionization
+Iridescence
+Isothermal
+Jet
+Jet Propulsion
+Joule
+Kelvin
+Kepler 
+Key
+Kilogram
+Kilowatt Hour 
+Kinematics 
+Kinetic Energy 
+Kinetic Theory 
+Lactometer
+Laser
+Latent Heat
+Lateral Displacement
+Lateral Inversion
+Lathe
+Law of Conservation Of Energy
+Law of Inertia
+Law of Reflection
+Law of Universal Gravitation
+Lepton
+Lever
+Lifebuoys
+Light Emitting Diode
+Like Charges
+Like Poles
+Linear Accelerator
+Linear Expansion
+Liquefaction
+Liquid
+Liquid Crystal Diode
+Load Distance
+Load Force
+Loadstone
+Local Action
+Longitudinal Wave
+Loudness
+Lubricant
+Lumen
+Luminous Flux
+Lunar Eclipse
+Lux
+Magic Lantern
+Magnetic Field
+Magnetic Force
+Magnetic Induction
+Magnifying Power
+Magnitude
+Malleability
+Manometer
+Mass
+Matter
+Mechanical Advantage
+Medium
+Melody
+Melting Point
+Meniscus
+Microscope
+Minimum Deviation
+Mirage
+Mist
+Momentum
+Musical Note
+Myopia
+Natural Frequency
+Net Force
+Neutrino 
+Neutron 
+Newton
+Newton-Meter
+Newton's First Law Of Motion
+Newton's Second Law Of Motion
+Newton's Third Law Of Motion
+Nodal Lines
+Node
+Non-Metal 
+Normal
+Nuclear 
+Nuclear Chain Reaction 
+Nuclear Decay Series
+Nuclear Energy 
+Nuclear Fission 
+Nuclear Fusion 
+Nuclear Radiation
+Nucleons 
+Nucleus
+Nuclide
+Objective
+Observation
+Octave
+Opaque
+Open Circuit
+Operational Definitions
+Optic Centre
+Optical Fibre
+Optics
+Orbital Motion
+Ordinary Hydrogen
+Organizing Data
+Ort Circuit
+Oscillation
+Oscillator
+Oton Bean
+Out's Hypothesis
+Overtones
+Parallax
+Partial Eclipse
+Particle
+Pendulum
+physics
+physicist
+Penumbra
+Photometer
+Pitch of The Screw
+Pivot
+Plane
+Plane Mirror
+Pointer
+Polarisation
+Pole
+Porosity
+Positive Electricity
+Potential Energy
+Potentiality
+Power
+Pressure
+Principal Axis
+Pulley
+Pyknometer
+Quantized
+Quantum
+Quantum Mechanics 
+Quantum Number 
+Quantum of Light
+Quantum Theory
+Quarks
+Radiation
+Rain Gauge
+Reaction
+Reading
+Real Image
+Receiver
+Recoil
+Rectifier
+Reflection
+Refraction
+Refractive Index
+Refractometer
+Refrigerant
+Regulation
+Relative Density
+Relative Expansion
+Relative Humidity
+Relay
+Repulsion
+Research
+Reservoir
+Resistance
+Resolution of Forces
+Resonance
+Resting Point
+Resultant
+Retardation
+Rigidity
+Rim
+Rocket
+Rotatory Compressor
+Rudder
+Safety Fuse
+Satellite
+Saturation
+Science
+Screen
+Screw Thread
+Secondary Axis
+Sensitized
+Shaft
+Simple Pendulum
+Siphon
+Slide Valve
+Slit
+Snow
+Solenoid
+Solidify
+Solidity
+Sonometer
+Space
+Specific Gravity
+Specific Heat
+Spectrometer
+Spectroscope
+Spectrum
+Speed
+Spherometer
+Spiral Spring
+Statics
+Stopcock
+Stop Watch
+Suction Pump
+Suction Tube
+Surface
+Surface Tension
+Swing
+Sympathetic Vibration
+Synthesis of Light
+Tachometer
+Telescope
+Temperature
+Tension
+Terminal
+Theory
+Thermal capacity
+Thermal couple
+Thermodynamics
+Thermoscope
+Thermostat
+Thickness
+Thrust
+Tone
+Torsion
+Total internal reflection
+Transformer
+Translucent
+Transmitter
+Transparent
+Transverse vibration
+Turbine
+Tuning fork
+Turning point
+Ultimate Stress
+Ultrasonic 
+Ultrasonic Cleaners 
+Ultrasonic Waves 
+Ultrasound 
+Ultraviolet
+Ultraviolet Radiation 
+Ultraviolet Rays 
+Umbra
+Unbalanced Force
+Uncertainty Principle 
+Unit
+Universal Gravitation
+Unsaturated
+Up Quarks
+UV
+Vacuum
+Vacuum Brake
+Vacuum Tube 
+Valence Electrons
+Valve
+Vaporization
+Vapour Pressure
+Vector 
+Vector Addition 
+Vector Resolution 
+Velocity
+Velocity of Sound 
+Vertical Motion
+Vibration
+Virtual Image
+Viscosity 
+Visible Light 
+Visible Radiation 
+Visible Spectrum
+Vocal Chord
+Vocal Cords 
+Volatile
+Volta Meter
+Voltmeter
+Volume
+Volume of A Cylinder 
+Volume of Sphere
+Water Equivalent
+Water Level
+Water Wheel
+Wave Front
+Wave Length
+Wave Theory
+Wheel And Axle
+Winding and Axle
+Winding
+Wound 
+Watt 
+Watts 
+Wave 
+Wavelength 
+Weak Force 
+Weight 
+White 
+Work Function
+X Rays
+Xwell's Law of Induction
+Zero Error
+Zener Diode 
+acarology	
+accidence	
+aceology	
+acology	        
+acoustics	
+adenology	
+aedoeology	
+aerobiology	
+aerodonetics	
+aerodynamics	
+aerology	
+aeronautics	
+aerophilately	
+aerostatics	
+agonistics	
+agriology	
+agrobiology	
+agrology	
+agronomics	
+agrostology	
+alethiology	
+algedonics	
+algology	
+anaesthesiology	
+anaglyptics	
+anagraphy	
+anatomy	        
+andragogy	
+anemology	
+angelology	
+angiology	
+anthropobiology	
+anthropology	
+aphnology	
+apiology	
+arachnology	
+archaeology	
+archelogy	
+archology	
+arctophily	
+areology	
+aretaics	
+aristology	
+arthrology	
+astacology	
+astheniology	
+astrogeology	
+astrology	
+astrometeorology
+astronomy	
+astrophysics	
+astroseismology	
+atmology	
+audiology	
+autecology	
+autology	
+auxology	
+avionics	
+axiology	
+bacteriology	
+balneology	
+barodynamics	
+barology	
+batology	
+bibliology	
+bibliotics	
+bioecology	
+biology	        
+biometrics	
+bionomics	
+botany	        
+bromatology	
+brontology	
+bryology	
+cacogenics	
+caliology	
+calorifics	
+cambistry	
+campanology	
+carcinology	
+cardiology	
+caricology	
+carpology	
+cartography	
+cartophily	
+castrametation	
+catacoustics	
+catalactics	
+catechectics	
+cetology	
+chalcography	
+chalcotriptics	
+chaology	
+characterology	
+chemistry	
+chirocosmetics	
+chirography	
+chirology	
+chiropody	
+chorology	
+chrematistics	
+chronobiology	
+chrysology	
+ciselure	
+climatology	
+clinology	
+codicology	
+coleopterology	
+cometology	
+conchology	
+coprology	
+cosmetology	
+cosmology	
+craniology	
+criminology	
+cryobiology	
+cryptology	
+cryptozoology	
+ctetology	
+cynology	
+cytology	
+dactyliology	
+dactylography	
+dactylology	
+deltiology	
+demology	
+demonology	
+dendrochronology
+dendrology	
+deontology	
+dermatoglyphics	
+dermatology	
+desmology	
+diabology	
+diagraphics	
+dialectology	
+dioptrics	
+diplomatics	
+diplomatology	
+docimology	
+dosiology	
+dramaturgy	
+dysgenics	
+dysteleology	
+ecclesiology	
+eccrinology	
+ecology	
+economics	
+edaphology	
+Egyptology	
+ekistics	
+electrochemistry	
+electrology	
+electrostatics	
+embryology	
+emetology	
+emmenology	
+endemiology	
+endocrinology	
+enigmatology	
+entomology	
+entozoology	
+enzymology	
+ephebiatrics	
+epidemiology	
+epileptology	
+epistemology	
+eremology	
+ergology	
+ergonomics	
+escapology	
+eschatology	
+ethnogeny	
+ethnology	
+ethnomethodology
+ethnomusicology	
+ethology	
+ethonomics	
+etiology	
+etymology	
+euthenics	
+exobiology	
+floristry	
+fluviology	
+folkloristics	
+futurology	
+garbology	
+gastroenterology
+gastronomy	
+gemmology	
+genealogy	
+genesiology	
+genethlialogy	
+geochemistry	
+geochronology	
+geogeny	
+geogony	
+geography	
+geology	        
+geomorphogeny	
+geoponics	
+geotechnics	
+geratology	
+gerocomy	
+gerontology	
+gigantology	
+glaciology	
+glossology	
+glyptography	
+glyptology	
+gnomonics	
+gnosiology	
+gnotobiology	
+graminology	
+grammatology	
+graphemics	
+graphology	
+gromatics	
+gynaecology	
+gyrostatics	
+haemataulics	
+hagiology	
+halieutics	
+hamartiology	
+harmonics	
+hedonics	
+helcology	
+heliology	
+helioseismology	
+helminthology	
+hematology	
+heortology	
+hepatology	
+heraldry	
+heresiology	
+herpetology	
+hierology	
+hippiatrics	
+hippology	
+histology	
+histopathology	
+historiography	
+historiology	
+homiletics	
+hoplology	
+horography	
+horology	
+horticulture	
+hydrobiology	
+hydrodynamics	
+hydrogeology	
+hydrography	
+hydrokinetics	
+hydrology	
+hydrometeorology
+hydropathy	
+hyetology	
+hygiastics	
+hygienics	
+hygiology	
+hygrology	
+hygrometry	
+hymnography	
+hymnology	
+hypnology	
+hypsography	
+iamatology	
+iatrology	
+iatromathematics
+ichnography	
+ichnology	
+ichthyology	
+iconography	
+iconology	
+ideogeny	
+ideology	
+idiomology	
+idiopsychology	
+immunogenetics	
+immunology	
+immunopathology	
+insectology	
+irenology	
+iridology	
+kalology	
+karyology	
+kidology	
+kinematics	
+kinesics	
+kinesiology	
+kinetics	
+koniology	
+ktenology	
+kymatology	
+labeorphily	
+larithmics	
+laryngology	
+lepidopterology	
+leprology	
+lexicology	
+lexigraphy	
+lichenology	
+limacology	
+limnobiology	
+limnology	
+linguistics	
+lithology	
+liturgiology	
+loimology	
+loxodromy	
+magirics	
+magnanerie	
+magnetics	
+malacology	
+malariology	
+mammalogy	
+manège	
+Mariology	
+martyrology	
+mastology	
+mathematics	
+mazology	
+mammalogy
+mechanics	
+meconology	
+melittology	
+mereology	
+mesology	
+metallogeny	
+metallography	
+metallurgy	
+metaphysics	
+metapolitics	
+metapsychology	
+meteoritics	
+meteorology	
+metrics	
+metrology	
+microanatomy	
+microbiology	
+microclimatology
+micrology	
+micropalaeontology
+microphytology	
+microscopy	
+mineralogy	
+molinology	
+momilogy	
+morphology	
+muscology	
+museology	
+musicology	
+mycology	
+myology	
+myrmecology	
+mythology	
+naology	
+nasology	
+nautics	
+nematology	
+neonatology	
+neossology	
+nephology	
+nephrology	
+neurobiology	
+neurology	
+neuropsychology	
+neurypnology	
+neutrosophy	
+nidology	
+nomology	
+noology	
+nosology	
+nostology	
+notaphily	
+numerology	
+numismatics	
+nymphology	
+obstetrics	
+oceanography	
+oceanology	
+odology	
+odontology	
+oenology	
+oikology	
+olfactology	
+ombrology	
+oncology	
+oneirology	
+onomasiology	
+onomastics	
+ontology	
+oology	
+ophiology	
+ophthalmology	
+optics	
+optology	
+optometry	
+orchidology	
+ornithology	
+orology	
+orthoepy	
+orthography	
+orthopterology	
+oryctology	
+osmics	
+osmology	
+osphresiology	
+osteology	
+otology
+otorhinolaryngology	
+paedology	
+paedotrophy	
+paidonosology	
+palaeoanthropology	
+palaeobiology	
+palaeoclimatology	
+palaeolimnology	
+palaeolimnology	
+palaeontology	
+palaeopedology	
+paleobotany	
+paleoosteology	
+palynology	
+papyrology	
+parapsychology	
+parasitology	
+paroemiology	
+parthenology	
+pataphysics	
+pathology	
+patrology	
+pedagogics	
+pedology	
+pelology	
+penology	
+periodontics	
+peristerophily	
+pestology	
+petrology	
+pharmacognosy	
+pharmacology	
+pharology	
+pharyngology	
+phenology	
+phenomenology	
+philately	
+philematology	
+phillumeny	
+philology	
+philosophy	
+phoniatrics	
+phonology	
+photobiology	
+phraseology	
+phrenology	
+phycology	
+physics	
+physiology	
+phytology	
+piscatology	
+pisteology	
+planetology	
+plutology	
+pneumatics	
+podiatry	
+podology	
+polemology	
+pomology	
+posology	
+potamology	
+praxeology	
+primatology	
+proctology	
+prosody	
+protistology	
+proxemics	
+psalligraphy	
+psephology	
+pseudology	
+pseudoptics	
+psychobiology	
+psychogenetics	
+psychognosy	
+psychology	
+psychopathology	
+psychophysics	
+pteridology	
+pterylology	
+pyretology	
+pyrgology	
+pyroballogy	
+pyrography	
+quinology	
+raciology	
+radiology	
+reflexology	
+rhabdology	
+rhabdology	
+rheology	
+rheumatology	
+rhinology	
+rhochrematics	
+runology	
+sarcology	
+satanology	
+scatology	
+schematonics	
+sciagraphy	
+scripophily	
+sedimentology	
+seismology	
+selenodesy	
+selenology	
+semantics	
+semantology	
+semasiology	
+semiology	
+semiotics	
+serology	
+sexology	
+siderography	
+sigillography	
+significs	
+silvics	
+sindonology	
+Sinology	
+sitology	
+sociobiology	
+sociology	
+somatology	
+sophiology	
+soteriology	
+spectrology	
+spectroscopy	
+speleology	
+spermology	
+sphagnology	
+sphragistics	
+sphygmology	
+splanchnology	
+spongology	
+stasiology	
+statics	
+stemmatology	
+stoichiology	
+stomatology	
+storiology	
+stratigraphy	
+stratography	
+stylometry	
+suicidology	
+symbology	
+symptomatology	
+synecology	
+synectics	
+syntax	
+syphilology	
+systematology	
+taxidermy	
+tectonics	
+tegestology	
+teleology	
+telmatology	
+teratology	
+teuthology	
+textology	
+thalassography	
+thanatology	
+thaumatology	
+theology	
+theriatrics	
+theriogenology	
+thermodynamics	
+thermokinematics
+thermology	
+therology	
+thremmatology	
+threpsology	
+tidology	
+timbrology	
+tocology	
+tonetics	
+topology	
+toponymics	
+toreutics	
+toxicology	
+toxophily	
+traumatology	
+tribology	
+trichology	
+trophology	
+tsiganology	
+turnery	
+typhlology	
+typography	
+typology	
+ufology	
+uranography	
+uranology	
+urbanology	
+urenology	
+urology	
+venereology	
+vermeology	
+vexillology	
+victimology	
+vinology	
+virology	
+vitrics	
+volcanology	
+vulcanology	
+xylography	
+xylology	
+zenography	
+zoiatrics	
+zooarchaeology	
+zoochemistry	
+zoogeography	
+zoogeology	
+zoology	        
+zoonomy	        
+zoonosology	
+zoopathology	
+zoophysics	
+zoophysiology	
+zoophytology	
+zoosemiotics	
+zootaxy	        
+zootechnics	
+zygology	
+zymology	
+zymurgy

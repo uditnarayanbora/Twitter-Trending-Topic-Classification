@@ -1,0 +1,942 @@
+﻿accelerando
+adagio
+accent
+new_year
+newyear
+celebrations
+celebrities
+celebrating
+wishing
+happy
+festival
+trailer
+festive
+dadasaheb_phalke
+dadasaheb
+phalke
+awards
+voot
+cannes
+sonam
+sonam_kapoor
+kapoor
+aishwarya_rai
+aishwarya
+102notout
+raazi
+race3
+rani_mukherjee
+rani
+ajay
+ajay_devgan
+iifa_awards
+iifa
+rockstar
+blackpanther
+box_office
+popcorn
+collections
+streaming
+record
+recording
+shoot
+shooting
+bollywood
+tollywood
+hollywood
+ratings
+photoshoot
+click
+Aeolian mode
+allegretto
+allegro
+andante
+andantino
+animato
+arioso
+arpeggio
+bar
+bass
+beat
+blues
+breath mark
+cadence
+canon
+cantabile
+chord
+chromatic scale
+circle of fifths
+clef
+coda
+con brio
+counterpoint
+crescendo
+crotchet
+da capo
+decrescendo
+demisemiquaver
+diatonic
+diminuendo
+dissonance
+dolce
+dominant
+Dorian mode
+dynamics
+eighth note
+eighth rest
+espressivo
+fermata
+fifth
+fine
+flag
+flat
+forte
+fortissimo
+forzando
+fourth
+fugue
+furioso
+grandioso
+grave
+half note
+half step
+harmonic major
+harmonic minor
+harmonics
+harmony
+hemidemisemiquaver
+interval
+intonation
+invention
+Ionian mode
+jazz
+key
+key signature
+largo
+ledger line
+legato
+lento
+libretto
+Locrian mode
+Lydian mode
+major
+major third
+marcato
+measure
+melodic minor
+melody
+meter
+mezzo forte
+mezzo piano
+minim
+minor
+minor third
+Mixolydian mode
+moderato
+modulation
+molto
+music
+natural
+natural minor
+notation
+notes
+octatonic
+octave
+opera
+ornament
+overtone
+pentatonic
+pentatonic scale
+pesante
+phrase
+Phrygian mode
+play
+pianissimo
+piano
+pitch
+pizzicato
+poco a poco
+polyphony
+prestissimo
+presto
+quarter note
+quarter rest
+quaver
+quaver rest
+rallentando
+repeat
+religioso
+rest
+rhythm
+ritard
+rock and roll
+rubato
+scale
+semiquaver
+semplice
+sempre
+scherzando
+scherzo
+segno
+sequence
+sforzando
+sharp
+simile
+sixteenth note
+sixty-fourth note
+slur
+sonata
+sostenuto
+sotto voce
+staccato
+staff
+stave
+stem
+subdominant
+subito
+supertonic
+symphony
+syncopation
+tablature
+tempo
+tenuto
+theme
+theory
+thirty-second note
+tie
+timbre
+time signature
+tonic
+tranquillo
+transposition
+treble
+triad
+trill
+triplets
+tritone
+vibrato
+vivace
+whole note
+whole rest
+whole step
+whole tone scale
+songs
+hiphop
+r&d
+rock
+rockandroll
+countrymusic
+musicallytunes
+musicallyapp
+musicallyharmony
+musica
+musically
+tunes
+music
+musicallyaddicted
+musical
+tune
+musicaly
+edm
+ustop10
+saavn
+gaana
+spotifier
+billboard
+webmusic
+youtube
+pandora
+fm
+dopefm
+listen
+listening
+3-D
+absorbing
+acclaimed
+adult
+adventurous
+ambitious
+artistic
+astonishing
+avant-garde
+award-winning
+awe-inspiring
+based on
+beautiful
+beautifully filmed
+beautifully shot
+big-budget
+bold
+breathtaking
+brilliant
+captured
+cerebral
+character-driven
+charismatic
+cinematic
+coherent
+colorful
+comic
+compelling
+complex
+conceptual
+contemplative
+contemporary
+controversial
+conversational
+convincing
+creative
+critically acclaimed
+cult
+current
+daring
+deep
+deeply thoughtful
+delightful
+dizzying
+dramatic
+edgy
+effective
+elevating
+eloquent
+emotional
+emotionally charged
+emotionally resonant
+enchanted
+engaging
+engrossing
+enigmatic
+entertaining
+epic
+evocative
+exceptional
+exciting
+exquisite
+extraordinary
+family-friendly
+fascinating
+fast-paced
+feel-good
+filmed
+filmed live
+fluid
+fresh
+fun
+funny
+futuristic
+graceful
+graphic
+gripping
+highly original
+historical
+honest
+humorous
+imaginative
+immensely talented
+impassioned
+important
+in-depth
+independent
+infused
+insightful
+inspirational
+inspired
+intellectual
+intellectually invigorating
+intelligent
+intense
+intensive
+interesting
+introspective
+intuitive
+inventive
+inventively edited
+ironic
+layered
+legendary
+light-hearted
+magical
+magnetic
+mature
+meaningful
+memorable
+mind-blowing
+modern
+moving
+must-see
+mysterious
+mystical
+narrative
+non-stop
+offbeat
+original
+passionate
+phenomenal
+playful
+plot-driven
+ponderous
+popular
+pornographic
+potent
+powerful
+profound
+provoking
+pure
+quirky
+rated
+realistic
+recommended
+refined
+refreshing
+relevant
+remarkable
+resourceful
+revealing
+rich
+riveting
+romantic
+rousing
+sad
+sappy
+satirical
+sentimental
+sexy
+small-budget
+star-studded
+strong
+stunning
+superb
+suspenseful
+sweet
+theatrical
+thrilling
+touching
+underground
+unforgettable
+visionary
+visual
+well-paced
+worthwhile
+acting
+action
+actor
+actress
+adventure
+antagonist
+artistic merit
+audience
+audience escapism
+audience response
+autobiography
+budget
+camera
+cast
+central character
+CGI
+character
+character actor
+character chemistry
+character development
+cinema
+cinematography
+climax
+closure
+comedic timing
+comedy
+compilation
+concept
+conclusion
+context
+continuity
+costume
+creativity
+crew
+culture
+depiction
+depth
+dialogue
+director
+duality
+empathy
+ending
+execution
+exploration
+expression
+fantasy
+female lead
+fiction
+film
+film critic
+filming
+filmmaking
+finale
+flashback
+flick
+foreshadowing
+format
+frame
+genre
+growth
+hero
+heroine
+Hollywood
+humor
+impact
+improv
+improvisation
+insight
+inspiration
+intensity
+interaction
+interpretation
+intricacies
+intrigue
+irony
+journey
+juxtaposition
+labyrinth
+language
+lead character
+leading lady
+leading man
+leads
+lighting
+lines
+love interest
+made-for-TV
+magic
+main character
+male lead
+manipulation
+masterpiece
+mastery
+maturity
+meaning
+memoir
+message
+metaphor
+method
+motion picture
+motivation
+movie
+movie goer
+movie review
+movie star
+movie theater
+musical score
+narration
+narrative
+narrative thread
+narrative voice
+narrator
+nuance
+observation
+originality
+pace
+parable
+paradox
+passion
+perception
+performance
+performer
+perspective
+philosophy
+play
+plot
+plot twist
+point of view
+portrait
+portrayal
+precision
+premiere
+premise
+preoccupation
+prequel
+producer
+production
+protagonist
+rating
+rave reviews
+readership
+reflection
+remake
+rendition
+representation
+resolution
+resonance
+role
+roller coaster
+romance
+saga
+satire
+scene
+screen
+screenplay
+screenwriter
+script
+sections
+sensitivity
+sensuality
+sequel
+series
+set design
+setting
+shot
+silver screen
+sitcom
+special effects
+spotlight
+stage
+star
+statement
+story
+storyline
+structure
+style
+subconscious
+subject
+subject matter
+subplot
+supporting actor
+suspense
+symbol
+symbolism
+tale
+talent
+technique
+theater
+theme
+thriller
+thrillride
+thumbs up
+tone
+tragedy
+transformation
+true story
+understanding
+use of language
+vehicle for
+viewer
+viewpoint
+vision
+voice
+voice-over
+well-cast
+well-written
+wisdom
+work
+writer
+absorb
+accomplish
+act
+affect
+apply
+appreciate
+arouse
+awaken
+be taken in
+bring to life
+bring to light
+captivate
+capture
+carry away
+catch
+characterize
+communicate
+conceive
+conjure
+contemplate
+convey
+create
+culminate
+depict
+develop
+direct
+dramatize
+echo
+edit
+elevate
+emerge
+enchant
+enjoy
+entrance
+escalate
+evoke
+evolve
+examine
+excite
+experience
+explore
+express
+fascinate
+feel
+film
+finish
+flashback
+flesh out
+foreshadow
+give life to
+grasp
+harmonize
+hit home
+illustrate
+immerse
+impassion
+impersonate
+impress
+incite
+inspire
+interweave
+intrigue
+introduce
+invert
+juxtapose
+layer
+lead
+learn
+make one think
+makes a point
+manipulate
+meditate
+muse on
+narrate
+nettle
+offer
+orchestrate
+outline
+paint
+parallel
+perform
+personify
+piece together
+pique
+play
+play on
+portray
+premiere
+probe
+produce
+progress
+question
+realize
+recount
+recreate
+redefine
+reflect
+regale
+remake
+remind
+render
+represent
+resolve
+resonate
+reveal
+review
+rouse
+see
+shoot
+show
+stat
+stir
+study
+tease
+tell
+tickle
+torment
+touch
+transform
+understand
+unwind
+uplift
+weave
+a bore
+arrogant
+average
+banal
+blasé
+bomb at the theaters
+boring
+catastrophe
+childish
+cliché
+common
+conceited
+confusing
+contrived
+copied
+crude
+dated
+depressing
+disappointing
+disjointed
+dissatisfying
+distracting
+drab
+dreadful
+dry
+dull
+empty
+excruciating
+failure
+forced
+formulaic
+frantic
+frustrating
+gimmicky
+grating
+hard to follow
+heavily flawed
+holes in the plot
+hollow
+horrible
+implausible
+in poor taste
+inconsistent
+irrelevant
+irritating
+juvenile
+lacking
+lacking talent
+lackluster
+lifeless
+little character development
+low budget
+meaningless
+mechanical
+mediocre
+melodramatic
+mindless action
+misinformed
+needless
+needs editing
+obnoxious
+obvious
+offensive
+one-dimensional characters
+overact
+overly-complicated
+overly-sentimental
+overrated
+paper-thin plot
+pedestrain
+poor acting
+poor pacing
+poorly-conceived
+poorly-directed
+poorly-executed
+poorly-filmed
+poorly-produced
+poorly-written
+preachy
+predictable
+pretentious
+rambling
+redundant
+sappy
+self-absorbed
+senseless
+sentimentalized
+silly
+skeletal development
+slanted
+slow
+slow-going
+so-so
+sophomoric
+stereotype
+stereotyped
+sterile
+stock plot
+straight-to-DVD
+superficial
+tasteless
+tedious
+thin
+tiresome
+too long
+tragic
+transparent
+trendy
+trivial
+typecast
+unaffecting
+unconvincing
+underwhelming
+unimaginative
+unimportant
+uninspired
+unintelligent
+uninteresting
+unoriginal
+unpracticed
+unrefined
+unresolved
+unsatisfactory
+unsatisfying
+untalented
+vacuous
+waste of time
+action
+adventure
+animated
+animation
+B movie
+biography
+black and white
+cartoon
+comedy
+crime
+cult classics
+documentary
+drama
+fantasy
+feature films
+film noir
+foreign
+historical
+horror
+improv
+improvisation
+independant
+indie
+kids'
+musical
+mystery
+new releases
+porn
+pornographic
+pornography
+romance
+romantic comedy
+sci-fi
+science fiction
+silent movies
+sketch comedy
+skin flick
+slapstick
+special interest
+sports
+stop-motion
+suspense
+thriller
+war drama
+Western
+shooting
+launch
+events
+awards
+glamour
+style
+dance
+freestyle
+games
+party
+karan johar
+srk
+deepika padukone
+priyanka chopra
+tiger shroff
+
+t
+
+    

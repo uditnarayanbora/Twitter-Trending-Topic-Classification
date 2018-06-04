@@ -1,0 +1,874 @@
+Abnormal 
+Abstinence 
+Ache 
+forensic
+forensic_report
+aiims
+AIIMS
+kidney
+transplant
+kidney_transplant
+heart_transplant
+symptoms
+treatment
+rbc
+death
+hospital
+hemoglobin
+renal
+surgery
+hematology
+Active 
+Activity
+Acupuncture 
+Addictive 
+Aerobics
+Aids 
+Alcohol 
+Allergy 
+Anemia 
+Anorexia 
+Antidote 
+Anxiety 
+Appetite 
+Athlete 
+Athletics 
+Authentic 
+Bacteria 
+Beauty 
+Bend 
+Blood 
+Blood Pressure 
+Body 
+Bones 
+Breath 
+Breathe 
+Calcium 
+Calorie
+Cancer 
+Cardiac 
+Cereal 
+Circulation 
+Clean 
+Component 
+Conditioning 
+Courage 
+Crouch 
+Cuisine 
+Culinary 
+Cure
+Cyst 
+Dangerous 
+Deadly 
+Decision 
+Defect 
+Dehydration 
+Depression 
+Diagnostic
+Diagnosis
+Dementia 
+Diet 
+Diner 
+Dinner 
+Disability 
+Discipline 
+Disease 
+Dish 
+Disorder 
+Doctor 
+Drinking 
+Drug 
+Eatery 
+Eating 
+Emotional 
+Energy 
+Enforce
+Epidemic 
+Equipment 
+Erect 
+Exercise 
+Family 
+Fast Food 
+Ferment 
+Fit 
+Flex 
+Flexible 
+Folic Acid 
+Fracture 
+Fruit 
+Gain 
+Genetics 
+Gland 
+Goal 
+Grayness 
+Grip 
+Guideline 
+Gymnasium 
+Harmful 
+Headache 
+Health 
+Healthy 
+Herb 
+High Blood Pressure 
+HIV 
+Homemade 
+Hone 
+Hormone 
+Hungry 
+Hygiene 
+Hygienic 
+Immunity 
+Immunization 
+Improvement 
+Inactivity 
+Increase 
+Infancy 
+Infection 
+Infirm 
+Influenza 
+Ingredient 
+Inherent 
+Injury 
+Insulin 
+Integrity 
+Intimacy 
+Iron 
+Jargon 
+Jog 
+Joint 
+Judge 
+Jump 
+Kinesiology 
+Kinesis 
+Kinesthesia 
+Kinetic 
+Laziness 
+Lifestyle 
+Limit 
+Living 
+Lose 
+Loss 
+Lumbar 
+Massage 
+Masseur 
+Medical 
+Medication 
+Medicine 
+Memory 
+Mental Health 
+Metabolic 
+Method 
+Minimize 
+Mixture 
+Moisture 
+Mood 
+Movement 
+Muscle 
+Muscular 
+Nauseous 
+Nemesis 
+Nicotine 
+Nurse 
+Nutrient 
+Nutrition 
+Obesity 
+Obstacle 
+Offensive 
+Olfactory 
+Opt 
+Optimism 
+Option 
+Ossification 
+Outbreak 
+Outstanding 
+Override 
+Overweight 
+Panacea 
+Panic 
+Paraffin 
+Participation 
+Perspiration 
+Pessimism 
+Petrify 
+Pharmacy 
+Physiotherapy 
+Pilate 
+Pollution 
+Popularity 
+Portion 
+Positioning 
+Positive 
+Possibility 
+Potent 
+Power 
+Practice 
+Pregnancy 
+Prenatal
+Preserve 
+Pressure 
+Prevention 
+Protect 
+Protection 
+Prowess 
+Psychology 
+Pulley 
+Puncture 
+Pyramid 
+Quad 
+Quick 
+Quiver 
+Radiation 
+Rebound 
+Recognition 
+Record 
+Recovery 
+Recreation 
+Regimen 
+Rehabilitation 
+Relationship 
+Relaxation 
+Research 
+Reserve 
+Resilient 
+Resistance 
+Respiration 
+Response 
+Restoration 
+Risk 
+Rivalry 
+Role 
+Routine 
+Rush 
+Safety 
+Sanitary 
+Sauce 
+Savvy 
+Scare 
+Scenario 
+Scoreboard 
+Scoring 
+Senile 
+Sensible 
+Sex 
+Shape Up 
+Shot 
+Sibling 
+Signal 
+Size 
+Sizzle 
+Skill 
+Skin 
+Sleep 
+Slide 
+Smog 
+Smoking 
+Smorgasbord 
+Specialty 
+Speculation 
+Speed 
+Spice 
+Spicy 
+Spirit 
+Sportsmanship 
+Spring 
+Squad 
+Squat 
+Stability
+Stamina 
+Staple 
+Starve 
+Starving 
+Stimulate 
+Strategy 
+Strength 
+Stress 
+Strong 
+Struggle
+Suffer 
+Superstition 
+Support 
+Suspension 
+Swimming 
+Symptom 
+System 
+Tackle 
+Temptation 
+Tension 
+Terror 
+Testing 
+Therapeutic 
+Therapy 
+Time Out 
+Timing 
+Tobacco 
+Tone 
+Torso 
+Transplant 
+Trauma 
+Treatment 
+Tremor 
+Trend 
+Ultrasound 
+Unhealthy 
+Vaccination 
+Valiant 
+Valor 
+Vault 
+Vegetable 
+Vibration 
+Victory 
+Virus 
+Vitamin 
+Vulnerable 
+Walking 
+Warm Up 
+Watchful 
+Weigh 
+Weight 
+Wince 
+Winless 
+Winning 
+Wisdom 
+Witness 
+Work 
+X-Ray 
+Yoga 
+Zeal 
+Zest 
+Zinc 
+Zone
+disease
+obesity
+world health organization
+medicine
+nutrition
+well-being
+exercise
+welfare
+wellness
+health care
+public health
+nursing
+stress
+safety
+hygiene
+research
+social
+healthy
+condition
+aids
+epidemiology
+healthiness
+wellbeing
+care
+illness
+medical
+diet
+education
+infectious disease
+environmental
+healthcare
+physical fitness
+hospitals
+health care provider
+doctors
+healthy community design
+insurance
+sanitation
+human body
+patient
+mental health
+medicare
+agriculture
+health science
+fitness
+health policy
+weight loss
+physical therapy
+psychology
+pharmacy
+metabolic
+organism
+human
+lifestyle
+status
+unhealthy
+upbeat
+vaccination
+sleep
+condom
+alcohol
+smoking
+water
+family
+eudaimonia
+eudaemonia
+air
+house
+prevention
+genetics
+public
+families
+poor
+needs
+treatment
+communicable disease
+study
+centers
+improve
+problems
+experts
+services
+benefits
+treating
+hiv
+agencies
+benefit
+patients
+concerned
+risk
+tuberculosis
+according
+protection
+malaria
+development
+food
+priority
+management
+healthful
+mental
+provide
+department
+administration
+programs
+help
+assistance
+funding
+environment
+improving
+emergency
+need
+program
+affected
+schools
+private
+mental illness
+treat
+diseases
+planning
+agency
+schizophrenia
+related
+physicians
+policy
+lack
+developing
+national
+labor
+educational
+problem
+employment
+affect
+standards
+issues
+recommended
+for
+working
+awareness
+focus
+critical
+policies
+business
+responsible
+specialists
+workout
+guidelines
+federal
+providing
+institutions
+financial
+serious
+organizations
+worker
+organization
+economic
+who family of international classifications
+jog
+international classification of functioning, disability and health
+calisthenics
+aerobics
+international classification of diseases
+breathlessness
+depression
+veterinary medicine
+healthy city
+nutrients
+strech
+healthy environment
+excersise
+cancer
+physiotherapy
+warmdown
+health care system
+health education
+nonjogging
+alkaloid
+aerobic
+longevity
+lalonde report
+excercise
+adhd
+alameda county study
+world health report
+physiotherapist
+global health
+underexercise
+rehearsal
+jazzercise
+unexercised
+developing countries
+exercisable
+ottawa charter for health promotion
+carcinogen
+tiredness
+physiculture
+sweat
+exergame
+exergaming
+body weight
+perspiration
+bodybuilding
+biology
+biochemistry
+perspire
+wholesome
+natural environment
+physics
+built environment
+isoprenoid
+social environment
+stay healthy
+pharmacology
+be healthy
+emotion
+musclebound
+caffine
+dietary
+eat right
+you live long
+become strong
+cardio
+road traffic safety
+biotechnology
+good health
+lose weight
+live long
+public policy
+maintain good health
+eat healthily
+genetic predisposition
+maintain muscle strength
+aquacise
+stay fit
+get strong
+get in shape
+improve health
+get fit
+it be healthy
+get thin
+lift weight
+become healthy
+sweatpants
+feel healthy
+improve your health
+build muscle
+exercise regularly
+nature versus nurture
+join gym
+work out
+keep healthy
+go to gym
+you be overweight
+increase muscle mass
+you might exercise
+eat less
+unsweat
+look more attractive
+loose weight
+long life
+eat healthy food
+stay in shape
+stretch first
+cardiopulmonary exercise
+do exercise
+heath
+dental
+immunization
+occupational
+illnesses
+vaccinations
+dietetic
+maternity
+diabetes
+respiratory
+cardiovascular
+physician
+obstetrics
+healthfulness
+breastfeeding
+preparedness
+perinatal
+fertility
+sickness
+veterinary
+sanitary
+pharmacists
+behavioral
+midwives
+gerontology
+infertility
+hospitalization
+midwifery
+cholesterol
+childcare
+pediatrician
+pediatrics
+medicaid
+asthma
+pensions
+sicknesses
+clinics
+ailments
+chlamydia
+workplaces
+contraception
+epidemics
+nutritionist
+contraceptives
+healful
+become more healthy
+be physically fit
+strollerobics
+get healthy
+live long life
+get exhaust
+pandemic
+jogger
+diaphoretic
+work up sweat
+go on walk
+limber up
+be fit
+tone up
+breathe heavily
+society
+live long time
+ajog
+tewt
+do some exercise
+hidrosis
+buy new clothe
+major depressive disorder
+sweatsuit
+hygieia
+eat vegetable
+pull muscle
+bipolar disorder
+flab
+betoil
+anxiety disorder
+shvitz
+go for run
+ralstonism
+bodyweight
+take vitamin
+post-traumatic stress disorder
+autism spectrum
+exersize
+you get tire
+you get sweaty
+eating disorders
+healthy live
+be in shape
+keep in shape
+drug abuse
+get exercise
+go for jog
+wear jog shoe
+keep fit
+go jog
+have more energy
+maintain health
+exercise machine
+fitness center
+blood pressure
+pathogen
+food guide pyramid
+outbreak
+well be
+be fat
+unwellness
+hmos
+checkups
+dieticians
+eduction
+insurability
+hias
+predy
+sanitarian
+stomatology
+surance
+underpopulation
+audiology
+vaccinator
+gynecologic
+mediterranean diet
+strength train
+get tire
+phenolic compound
+sore muscle
+wear comfortable clothe
+run in marathon
+look good
+country
+fat person
+stretch your leg
+shortness of breath
+continent
+warm down
+be overweight
+shin splint
+biostatistics
+world
+break sweat
+cardiovascular system
+test your strength
+become exhaust
+feel good
+you become tire
+eat healthy
+ride bicycle
+sleep deprivation
+look attractive
+sleep and metabolism
+warm up
+weight gain
+run marathon
+release your energy
+infants
+visit doctor
+child
+circadian rhythm
+push up
+physical education
+body mass index
+eat well
+gymnastic apparatus
+tune up
+good morning
+bathing
+low blood pressure
+heart attack
+health club
+ride bike
+you feel good
+sweat like pig
+chop firewood
+feel burn
+breathe hard
+get sweaty
+volunteering
+muscle cramp
+gymnastic exercise
+increase heart rate
+get into shape
+feel fit
+military drill
+physical activity
+cognition
+meditation
+eczema
+urticaria
+dermatitis
+sunburn
+overwork
+manufacturing
+medical sociology
+need exercise
+just do it
+wear run shoe
+get some exercise
+get fresh air
+biomedical engineering
+healthy body
+impress other person
+stop smoke
+athletic activity
+burn calorie
+go for walk
+good shoe
+weight train
+put on shoe
+fire drill
+wear good shoe
+weight lift
+social work
+occupational therapy
+workplace wellness
+preventive medicine
+dental hygiene
+heart disease
+infant mortality
+school health services
+behavior modification
+cardiovascular disease
+balanced diet
+lassa fever
+staphylococcal infection
+planned parenthood
+population health
+pneumoconiosis
+silicosis
+health services
+environmental health
+community health
+behavioral health
+occupational health
+health promotion
+environmental protection
+health system
+maternal health
+chronic disease
+life expectancy
+disease management
+washing hands
+oral hygiene
+food safety
+observations of daily living
+social relation
+old age
+health and safety executive
+skin cancer
+carpal tunnel syndrome
+lead poisoning
+service sector
+sedentary lifestyle
+positive thinking
+primary sector
+cognitive therapy
+united kingdom
+occupational asthma
+united states
+national institute for occupational safety and health
+occupational safety and health administration
+relaxation technique
+stress management
+cognitive impairment
+psychological stress
+mood disorder
+hand washing
+respiratory illness
+occupational diseases
+time management
+problem solving
+coalworker's pneumoconiosis
